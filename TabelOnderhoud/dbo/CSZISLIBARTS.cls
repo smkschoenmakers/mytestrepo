@@ -8,7 +8,7 @@ Parameter CONNECTION = "HiXAsync,NOCREATE";
 /// Specifies the external database that this class uses
 Parameter EXTDBNAME = "Microsoft SQL Server";
 
-/// Commentaar van Rob
+/// Commentaar van Rob Schoenmakers	
 
 /// Specifies the external table to which this class refers
 Parameter EXTERNALTABLENAME = "dbo.CSZISLIB_ARTS";
